@@ -1,0 +1,21 @@
+
+.food-heading{
+  background-color: rgb(226, 43, 67);
+  color: chartreuse;
+  line-height: normal;
+  text-align: center;
+  padding: 5px;
+  border: 1px solid rgb(0, 0, 0);
+}
+
+.kg-number{
+  font-weight: 800;
+  color: rgb(5, 0, 0);
+}
+.kg-item{
+  background-color: brown;
+}
+.kg-span{
+  color: rgb(231, 231, 250);
+  font-weight: 300;
+}
